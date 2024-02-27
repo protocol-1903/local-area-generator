@@ -1,0 +1,12 @@
+{
+  "name": "local-area-generator",
+  "version": "0.1.0",
+  "title": "Local Area Generator",
+  "author": "protocol_1903",
+  "homepage": "https://github.com/protocol-1903/local-area-generator",
+  "description": "A solid fuel power generator that comes built-in with electrical distribution. Perfect for outposts.",
+  "factorio_version": "1.1",
+  "dependencies": [
+    "base"
+  ]
+}
